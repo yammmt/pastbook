@@ -2,6 +2,13 @@
 
 [アルゴリズム実技検定 公式テキスト[エントリー〜中級編]](https://book.mynavi.jp/ec/products/detail/id=120229)
 
+## Python と PyPy
+
+(p.72) 雑には
+
+- 再帰関数は Python
+- ループの回数が多い場合には PyPy
+
 ## 忘備録
 
 文法なんもわからん
