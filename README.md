@@ -34,3 +34,28 @@ for _ in range(0, 3):
 
     a.append(row)
 ```
+
+### 二次元配列の初期化
+
+N 行 M 列
+
+```python
+arr = [[0]*M for _ in range(N)]
+```
+
+```python
+arr = []
+for _ in range(N):
+    arr.append([0]*M)
+```
+
+### アルファベット演算
+
+```python
+ord("x") - ord("c") # 21
+chr(ord("c") + 10) # m
+```
+
+## :pray: 書籍レポジトリ
+
+[kenkoooo/pastbook-source-code](https://github.com/kenkoooo/pastbook-source-code)
